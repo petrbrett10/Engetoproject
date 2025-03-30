@@ -1,1 +1,2 @@
-prvni.py
+print ("Jmeno")
+
